@@ -5,9 +5,16 @@
 }
 
 .searchPanel {
-    padding-left: 30%;
+    padding-left: 15%;
 }
 
 .searchPanel input {
     width: 500px !important;
+}
+.cards {
+    padding: 8% 0px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 6%;
 }

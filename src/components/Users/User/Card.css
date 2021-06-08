@@ -1,0 +1,13 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.card-container {
+    width: 380px;
+    height: 120px;
+}
+.header {
+    font-size: 20px;
+}
+.card-content {
+    width: 220px;
+    height: 250px;
+}
